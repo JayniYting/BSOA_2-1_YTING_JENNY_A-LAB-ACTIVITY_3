@@ -15,4 +15,17 @@
 
 ### DOCUMENTATION:
 Below are the photos of the mock up homepage
-![Homepage Preview](Homepage.png)
+![Homepage Preview]
+<img width="1067" height="254" alt="Header" src="https://github.com/user-attachments/assets/e5dbee19-1793-48c8-90d5-0c214e699d59" />
+
+![Events]
+<img width="1033" height="456" alt="Events" src="https://github.com/user-attachments/assets/01945ea8-6539-4c57-91fb-3b09803975d8" />
+
+![Announcements]
+<img width="944" height="449" alt="Announcements" src="https://github.com/user-attachments/assets/f7076d90-87b8-4864-b896-ea91fb5696f7" />
+
+![Highlights and Recognition]
+<img width="921" height="582" alt="Recognition" src="https://github.com/user-attachments/assets/469856af-1815-4d3f-96d0-f4d4de82d2ee" />
+
+![Essentials]
+<img width="823" height="494" alt="Essentials" src="https://github.com/user-attachments/assets/426587c2-2d2b-4c36-8755-3786dfee35ca" />
