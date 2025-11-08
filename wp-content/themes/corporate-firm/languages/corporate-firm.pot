@@ -1,0 +1,945 @@
+# Copyright (C) 2025 pewilliams
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Corporate Firm 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/corporate-firm\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-09-15T13:15:36+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: corporate-firm\n"
+
+#. Theme Name of the theme
+#: style.css
+#: block-patterns.php:17
+msgid "Corporate Firm"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/products/corporate-firm"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Corporate Firm Theme is a modern, professional, and fully responsive solution designed to elevate business websites for consultancies, IT services, law firms, financial institutions, marketing agencies, startups, and corporate enterprises. With sleek layouts and customizable sections, it allows showcasing services, team members, portfolios, testimonials, projects, business solutions, and client case studies, helping firms build trust, credibility, and professionalism. Built with a powerful drag-and-drop page builder plugin, it enables easy customization of homepage layouts, color palettes, and typography settings to match your corporate branding without coding. Optimized for speed, SEO, and cross-browser compatibility, the theme ensures a smooth user experience across desktops, tablets, and smartphones. Seamlessly compatible with Contact Form 7 and WooCommerce, it supports inquiry forms, lead generation, and eCommerce functionality for selling services or digital products. Perfect for enterprises seeking growth, digital transformation, and a strong online presence, the Corporate Firm Theme provides a powerful, elegant, and user-friendly business website platform to showcase corporate identity, expertise, and achievements effectively. Demo: https://trial.ovationthemes.com/ovation-one-login-business-pro/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "pewilliams"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:15
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:24
+msgid "Return Home"
+msgstr ""
+
+#: patterns/about-section.php
+msgctxt "Pattern title"
+msgid "About Section"
+msgstr ""
+
+#: patterns/about-section.php:11
+msgid "who we are"
+msgstr ""
+
+#: patterns/about-section.php:15
+msgid "15+ years of proven expertise in business transformation"
+msgstr ""
+
+#: patterns/about-section.php:28
+msgid "15 +"
+msgstr ""
+
+#: patterns/about-section.php:32
+msgid "years of"
+msgstr ""
+
+#: patterns/about-section.php:32
+msgid "experience"
+msgstr ""
+
+#: patterns/about-section.php:40
+msgid "We are a dedicated corporate consulting firm committed to helping businesses grow stronger, smarter, and more sustainable. With expertise in business strategy, financial planning, and risk management, we empower organizations to achieve long-term success.We are a dedicated corporate consulting firm committed to helping businesses grow stronger, smarter, and more sustainable."
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archives"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:12
+msgid "where strategy meets execution."
+msgstr ""
+
+#: patterns/banner.php:16
+msgid "empowering businesses"
+msgstr ""
+
+#: patterns/banner.php:20
+msgid "We provide innovative solutions, strategic insights, and reliable support to help your business grow and succeed in today’s competitive market."
+msgstr ""
+
+#: patterns/banner.php:25
+msgid "get started"
+msgstr ""
+
+#: patterns/banner.php:29
+msgid "learn more"
+msgstr ""
+
+#: patterns/banner.php:40
+msgid "Trusted by "
+msgstr ""
+
+#: patterns/banner.php:40
+msgid "500+"
+msgstr ""
+
+#: patterns/banner.php:40
+msgid " global companies"
+msgstr ""
+
+#: patterns/cart.php
+msgctxt "Pattern title"
+msgid "Cart"
+msgstr ""
+
+#: patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: patterns/faq-section.php
+msgctxt "Pattern title"
+msgid "FAQ Section"
+msgstr ""
+
+#: patterns/faq-section.php:11
+msgid "frequently asked questions"
+msgstr ""
+
+#: patterns/faq-section.php:15
+msgid "Your questions, answered with clarity and confidence."
+msgstr ""
+
+#: patterns/faq-section.php:23
+msgid "1. What industries do you specialize in serving?"
+msgstr ""
+
+#: patterns/faq-section.php:24
+#: patterns/faq-section.php:30
+#: patterns/faq-section.php:36
+#: patterns/faq-section.php:42
+#: patterns/faq-section.php:52
+#: patterns/faq-section.php:58
+#: patterns/faq-section.php:64
+#: patterns/faq-section.php:70
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+msgstr ""
+
+#: patterns/faq-section.php:29
+msgid "2. How can your consulting services help my business grow?"
+msgstr ""
+
+#: patterns/faq-section.php:35
+msgid "3. How do you ensure confidentiality and data security?"
+msgstr ""
+
+#: patterns/faq-section.php:41
+msgid "4. How can I get started with your services?"
+msgstr ""
+
+#: patterns/faq-section.php:51
+msgid "5. What services do you offer?"
+msgstr ""
+
+#: patterns/faq-section.php:57
+msgid "6. How do I start working with you?"
+msgstr ""
+
+#: patterns/faq-section.php:63
+msgid "7. Do you provide tailored solutions?"
+msgstr ""
+
+#: patterns/faq-section.php:69
+msgid "8. Where are you located?"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:16
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste."
+msgstr ""
+
+#: patterns/footer.php:20
+#: patterns/header.php:13
+msgid "+1234567890"
+msgstr ""
+
+#: patterns/footer.php:24
+#: patterns/header.php:19
+msgid "corporatebusiness@example.com"
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "123 Green Street, business City, Country"
+msgstr ""
+
+#: patterns/footer.php:34
+msgid "quick links"
+msgstr ""
+
+#: patterns/footer.php:39
+msgid "home"
+msgstr ""
+
+#: patterns/footer.php:43
+msgid "about Us"
+msgstr ""
+
+#: patterns/footer.php:47
+#: patterns/footer.php:66
+msgid "services"
+msgstr ""
+
+#: patterns/footer.php:51
+msgid "solutions"
+msgstr ""
+
+#: patterns/footer.php:55
+#: patterns/index-header-image.php:11
+msgid "blog"
+msgstr ""
+
+#: patterns/footer.php:59
+msgid "contact us"
+msgstr ""
+
+#: patterns/footer.php:71
+msgid "Business Consulting"
+msgstr ""
+
+#: patterns/footer.php:75
+msgid "Market Research"
+msgstr ""
+
+#: patterns/footer.php:79
+msgid "Financial Planning"
+msgstr ""
+
+#: patterns/footer.php:83
+msgid "Risk Management"
+msgstr ""
+
+#: patterns/footer.php:87
+msgid "Strategic Advisory"
+msgstr ""
+
+#: patterns/footer.php:94
+msgid "resources"
+msgstr ""
+
+#: patterns/footer.php:99
+msgid "FAQs"
+msgstr ""
+
+#: patterns/footer.php:103
+msgid "Case Studies"
+msgstr ""
+
+#: patterns/footer.php:107
+msgid "Sustainability Tips"
+msgstr ""
+
+#: patterns/footer.php:111
+msgid "Reports & Guidelines"
+msgstr ""
+
+#: patterns/footer.php:115
+msgid "Careers"
+msgstr ""
+
+#: patterns/footer.php:124
+msgid "Corporate Firm WordPress Theme Proudly powered by "
+msgstr ""
+
+#: patterns/footer.php:124
+msgid "Ovation Themes"
+msgstr ""
+
+#: patterns/footer.php:124
+msgid " and "
+msgstr ""
+
+#: patterns/footer.php:124
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header-image.php
+msgctxt "Pattern title"
+msgid "Header Image"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:25
+msgid "Now offering free strategy consultation for new clients — Book your session today!"
+msgstr ""
+
+#: patterns/index-header-image.php
+msgctxt "Pattern title"
+msgid "Index Header Image"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:11
+msgid "insights & resources"
+msgstr ""
+
+#: patterns/latest-news.php:15
+msgid "Practical strategies and updates for modern businesses."
+msgstr ""
+
+#: patterns/more-post.php
+msgctxt "Pattern title"
+msgid "More Post"
+msgstr ""
+
+#: patterns/more-post.php:11
+msgid "More Articles &amp; Posts"
+msgstr ""
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr ""
+
+#: patterns/project-section.php
+msgctxt "Pattern title"
+msgid "Project Section"
+msgstr ""
+
+#: patterns/project-section.php:11
+msgid "featured projects"
+msgstr ""
+
+#: patterns/project-section.php:15
+msgid "Delivering impactful solutions that drive growth, compliance, and financial stability."
+msgstr ""
+
+#: patterns/project-section.php:22
+msgid "business consulting"
+msgstr ""
+
+#: patterns/project-section.php:26
+msgid "market research"
+msgstr ""
+
+#: patterns/project-section.php:30
+msgid "financial planning"
+msgstr ""
+
+#: patterns/project-section.php:34
+#: patterns/project-section.php:104
+#: patterns/project-section.php:180
+#: patterns/project-section.php:298
+msgid "risk management"
+msgstr ""
+
+#: patterns/project-section.php:46
+#: patterns/project-section.php:208
+msgid "strategic planning"
+msgstr ""
+
+#: patterns/project-section.php:50
+#: patterns/project-section.php:212
+#: patterns/project-section.php:274
+msgid "Crafting long-term business roadmaps to achieve growth and competitive advantage."
+msgstr ""
+
+#: patterns/project-section.php:60
+#: patterns/project-section.php:194
+#: patterns/project-section.php:316
+msgid "process optimization"
+msgstr ""
+
+#: patterns/project-section.php:64
+#: patterns/project-section.php:198
+#: patterns/project-section.php:320
+msgid "Streamlining workflows and operations to improve efficiency and reduce costs."
+msgstr ""
+
+#: patterns/project-section.php:74
+#: patterns/project-section.php:270
+#: patterns/project-section.php:330
+msgid "change management"
+msgstr ""
+
+#: patterns/project-section.php:78
+#: patterns/project-section.php:334
+msgid "Guiding organizations through transitions with structured strategies and employee."
+msgstr ""
+
+#: patterns/project-section.php:90
+#: patterns/project-section.php:284
+#: patterns/project-section.php:388
+msgid "innovation management"
+msgstr ""
+
+#: patterns/project-section.php:94
+#: patterns/project-section.php:288
+#: patterns/project-section.php:392
+msgid "Fostering creativity and implementing new ideas, products, and services to drive sustainable growth and market differentiation."
+msgstr ""
+
+#: patterns/project-section.php:108
+#: patterns/project-section.php:184
+#: patterns/project-section.php:302
+msgid "Identifying, assessing, and mitigating potential threats to safeguard business continuity and organizational resilience."
+msgstr ""
+
+#: patterns/project-section.php:118
+#: patterns/project-section.php:374
+msgid "leadership development"
+msgstr ""
+
+#: patterns/project-section.php:122
+#: patterns/project-section.php:378
+msgid "Building strong leadership capabilities through training, mentorship, and strategic succession planning."
+msgstr ""
+
+#: patterns/project-section.php:136
+#: patterns/project-section.php:254
+#: patterns/project-section.php:360
+msgid "customer experience strategy"
+msgstr ""
+
+#: patterns/project-section.php:140
+#: patterns/project-section.php:258
+#: patterns/project-section.php:364
+msgid "Designing customer-focused initiatives to enhance satisfaction, loyalty, and long-term brand value."
+msgstr ""
+
+#: patterns/project-section.php:150
+#: patterns/project-section.php:240
+msgid "digital transformation"
+msgstr ""
+
+#: patterns/project-section.php:154
+#: patterns/project-section.php:244
+msgid "Leveraging technology and data-driven solutions to modernize processes, improve agility, and strengthen competitiveness."
+msgstr ""
+
+#: patterns/project-section.php:164
+#: patterns/project-section.php:226
+#: patterns/project-section.php:344
+msgid "performance management"
+msgstr ""
+
+#: patterns/project-section.php:168
+#: patterns/project-section.php:230
+#: patterns/project-section.php:348
+msgid "Establishing metrics, accountability systems, and feedback mechanisms to drive productivity and achieve organizational goals."
+msgstr ""
+
+#: patterns/search-product.php
+msgctxt "Pattern title"
+msgid "Search Product"
+msgstr ""
+
+#: patterns/search-product.php:42
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/sidebar.php:38
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Archives"
+msgstr ""
+
+#: patterns/sidebar.php:58
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:68
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/single-product.php
+msgctxt "Pattern title"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/single-product.php:46
+msgid "Related Products"
+msgstr ""
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:11
+msgid "what our clients say"
+msgstr ""
+
+#: patterns/testimonial.php:15
+msgid "Client success is the true measure of our expertise."
+msgstr ""
+
+#: patterns/testimonial.php:26
+msgid "Ava Mitchell"
+msgstr ""
+
+#: patterns/testimonial.php:30
+msgid "AgroHarvest has transformed the way we farm. Their sustainable practices and modern increase yields without harming the soil"
+msgstr ""
+
+#: patterns/testimonial.php:44
+msgid "Rahul Desai"
+msgstr ""
+
+#: patterns/testimonial.php:48
+#: patterns/testimonial.php:102
+msgid "The quality of produce we receive is unmatched. Fresh, healthy, and delivered on time—AgroHarvest agriculture."
+msgstr ""
+
+#: patterns/testimonial.php:62
+msgid "Claire Benson"
+msgstr ""
+
+#: patterns/testimonial.php:66
+msgid "Thanks to AgroHarvest, we learned how to integrate eco-friendly methods into our fields. protecting the environment."
+msgstr ""
+
+#: patterns/testimonial.php:80
+msgid "Liam Chen"
+msgstr ""
+
+#: patterns/testimonial.php:84
+msgid "Their team is knowledgeable, supportive, and always ready to guide. AgroHarvest has built a bond of trust with farmers like us."
+msgstr ""
+
+#: patterns/testimonial.php:98
+msgid "Sophia James"
+msgstr ""
+
+#: styles/golden-yellow.json
+msgctxt "Style variation name"
+msgid "Golden Yellow"
+msgstr ""
+
+#: styles/golden-yellow.json
+#: styles/leaf-green.json
+#: styles/magenta-purple.json
+#: styles/orange-red.json
+#: styles/pinkish-red.json
+#: styles/sky-blue.json
+#: styles/vivid-red.json
+#: styles/vivid-violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/golden-yellow.json
+#: styles/leaf-green.json
+#: styles/magenta-purple.json
+#: styles/orange-red.json
+#: styles/pinkish-red.json
+#: styles/sky-blue.json
+#: styles/vivid-red.json
+#: styles/vivid-violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/golden-yellow.json
+#: styles/leaf-green.json
+#: styles/magenta-purple.json
+#: styles/orange-red.json
+#: styles/pinkish-red.json
+#: styles/sky-blue.json
+#: styles/vivid-red.json
+#: styles/vivid-violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/golden-yellow.json
+#: styles/leaf-green.json
+#: styles/magenta-purple.json
+#: styles/orange-red.json
+#: styles/pinkish-red.json
+#: styles/sky-blue.json
+#: styles/vivid-red.json
+#: styles/vivid-violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Footer Background"
+msgstr ""
+
+#: styles/golden-yellow.json
+#: styles/leaf-green.json
+#: styles/magenta-purple.json
+#: styles/orange-red.json
+#: styles/pinkish-red.json
+#: styles/sky-blue.json
+#: styles/vivid-red.json
+#: styles/vivid-violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary Light"
+msgstr ""
+
+#: styles/golden-yellow.json
+#: styles/leaf-green.json
+#: styles/magenta-purple.json
+#: styles/orange-red.json
+#: styles/pinkish-red.json
+#: styles/sky-blue.json
+#: styles/vivid-red.json
+#: styles/vivid-violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr ""
+
+#: styles/golden-yellow.json
+#: styles/leaf-green.json
+#: styles/magenta-purple.json
+#: styles/orange-red.json
+#: styles/pinkish-red.json
+#: styles/sky-blue.json
+#: styles/vivid-red.json
+#: styles/vivid-violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Headings"
+msgstr ""
+
+#: styles/golden-yellow.json
+#: styles/leaf-green.json
+#: styles/magenta-purple.json
+#: styles/orange-red.json
+#: styles/pinkish-red.json
+#: styles/sky-blue.json
+#: styles/vivid-red.json
+#: styles/vivid-violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/golden-yellow.json
+#: styles/leaf-green.json
+#: styles/magenta-purple.json
+#: styles/orange-red.json
+#: styles/pinkish-red.json
+#: styles/sky-blue.json
+#: styles/vivid-red.json
+#: styles/vivid-violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: styles/golden-yellow.json
+#: styles/leaf-green.json
+#: styles/magenta-purple.json
+#: styles/orange-red.json
+#: styles/pinkish-red.json
+#: styles/sky-blue.json
+#: styles/vivid-red.json
+#: styles/vivid-violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Sidebar Shadow Color"
+msgstr ""
+
+#: styles/leaf-green.json
+msgctxt "Style variation name"
+msgid "Leaf Green"
+msgstr ""
+
+#: styles/magenta-purple.json
+msgctxt "Style variation name"
+msgid "Magenta Purple"
+msgstr ""
+
+#: styles/orange-red.json
+msgctxt "Style variation name"
+msgid "Orange Red"
+msgstr ""
+
+#: styles/pinkish-red.json
+msgctxt "Style variation name"
+msgid "pinkish red"
+msgstr ""
+
+#: styles/sky-blue.json
+msgctxt "Style variation name"
+msgid "Sky Blue"
+msgstr ""
+
+#: styles/vivid-red.json
+msgctxt "Style variation name"
+msgid "Vivid Red"
+msgstr ""
+
+#: styles/vivid-violet.json
+msgctxt "Style variation name"
+msgid "Vivid Violet"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Lite"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "lato"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body Text"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Big"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Banner Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Left Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Right Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Without Header Image"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Without Header Image"
+msgstr ""

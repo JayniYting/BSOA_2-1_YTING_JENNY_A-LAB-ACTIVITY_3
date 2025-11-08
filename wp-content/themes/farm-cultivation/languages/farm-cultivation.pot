@@ -1,0 +1,775 @@
+# Copyright (C) 2025 pewilliams
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Farm Cultivation 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/farm-cultivation\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-08-21T17:07:42+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: farm-cultivation\n"
+
+#. Theme Name of the theme
+#: style.css
+#: block-patterns.php:17
+msgid "Farm Cultivation"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/products/farm-cultivation"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Farm Cultivation Theme is a multipurpose, minimal, and elegant design solution tailored for the agriculture industry, making it ideal for farmers, organic food promoters, agribusiness consultants, agriculture startups, farm blogs, rural development programs, government farming schemes, farm produce marketplaces, and eco-friendly brands. This responsive, user-friendly template is perfect for showcasing farming products, crop cultivation, irrigation systems, farm machinery, livestock management, agricultural technology, horticulture, soil management, greenhouse farming, organic cultivation, sustainable agriculture, and seasonal harvests. Built with retina-ready graphics and optimized code, it ensures fast loading, SEO-friendly performance, and smooth browsing across desktops, tablets, and smartphones. With customizable banners, testimonial sections, team profiles, and Call-to-Action buttons, it supports shortcodes for easy content creation, is translation-ready, and integrates social media to promote farming updates, agri products, and campaigns. Perfect for agritech companies, consultancy services, and organic food stores, the theme integrates seamlessly with the WooCommerce plugin, enabling crop sales, farm product catalogs, agricultural eCommerce, and online store management, providing a professional and visually appealing online presence for modern agriculture websites. Demo: https://trial.ovationthemes.com/farm-cultivation/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "pewilliams"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:15
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:24
+msgid "Return Home"
+msgstr ""
+
+#: patterns/about-section.php
+msgctxt "Pattern title"
+msgid "About Section"
+msgstr ""
+
+#: patterns/about-section.php:11
+msgid "who we are"
+msgstr ""
+
+#: patterns/about-section.php:15
+msgid "Currently we are Growing and selling "
+msgstr ""
+
+#: patterns/about-section.php:15
+msgid "Organic"
+msgstr ""
+
+#: patterns/about-section.php:15
+msgid " food"
+msgstr ""
+
+#: patterns/about-section.php:28
+msgid "15 +"
+msgstr ""
+
+#: patterns/about-section.php:32
+msgid "years of"
+msgstr ""
+
+#: patterns/about-section.php:32
+msgid "experience"
+msgstr ""
+
+#: patterns/about-section.php:40
+msgid "At Agriculture, we are dedicated to nurturing growth—both in the fields and in communities. With years of experience in sustainable farming and modern agricultural practices, we work closely with farmers, suppliers, and partners to deliver fresh, healthy, and high-quality produce."
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archives"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:17
+msgid "welcome to agriculture"
+msgstr ""
+
+#: patterns/banner.php:21
+msgid "Agriculture"
+msgstr ""
+
+#: patterns/banner.php:21
+msgid "from a Fresh Perspective"
+msgstr ""
+
+#: patterns/banner.php:25
+msgid "There are numerous variations of passages available, but most have been modified in some way by the addition of humor or randomized words."
+msgstr ""
+
+#: patterns/banner.php:30
+msgid "contact us"
+msgstr ""
+
+#: patterns/cart.php
+msgctxt "Pattern title"
+msgid "Cart"
+msgstr ""
+
+#: patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: patterns/faq-section.php
+msgctxt "Pattern title"
+msgid "FAQ Section"
+msgstr ""
+
+#: patterns/faq-section.php:11
+msgid "got questions? we’ve got "
+msgstr ""
+
+#: patterns/faq-section.php:11
+msgid "answers."
+msgstr ""
+
+#: patterns/faq-section.php:15
+msgid "Everything you need to know about our farming solutions and how we support agriculture"
+msgstr ""
+
+#: patterns/faq-section.php:23
+msgid "1. What crops can I grow with your guidance?"
+msgstr ""
+
+#: patterns/faq-section.php:24
+#: patterns/faq-section.php:30
+#: patterns/faq-section.php:36
+#: patterns/faq-section.php:46
+#: patterns/faq-section.php:52
+#: patterns/faq-section.php:58
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+msgstr ""
+
+#: patterns/faq-section.php:29
+msgid "2. Do you provide organic farming support?"
+msgstr ""
+
+#: patterns/faq-section.php:35
+msgid "3. How can I improve soil health naturally?"
+msgstr ""
+
+#: patterns/faq-section.php:45
+msgid "4. Do you offer modern irrigation solutions?"
+msgstr ""
+
+#: patterns/faq-section.php:51
+msgid "5. Can I get help with pest & disease control?"
+msgstr ""
+
+#: patterns/faq-section.php:57
+msgid "6. Do you supply high-quality seeds and tools?"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:14
+msgid "Agriculture is committed to empowering farmers with sustainable practices, modern tools, and expert guidance."
+msgstr ""
+
+#: patterns/footer.php:18
+msgid "+1234567890"
+msgstr ""
+
+#: patterns/footer.php:22
+msgid "agriculture@example.com"
+msgstr ""
+
+#: patterns/footer.php:26
+msgid "Green Valley Road, Springfield, USA"
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "quick links"
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "home"
+msgstr ""
+
+#: patterns/footer.php:41
+msgid "about Us"
+msgstr ""
+
+#: patterns/footer.php:45
+#: patterns/footer.php:60
+msgid "services"
+msgstr ""
+
+#: patterns/footer.php:49
+#: patterns/index-header-image.php:11
+msgid "blog"
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "contact"
+msgstr ""
+
+#: patterns/footer.php:65
+msgid "Organic Farming Solutions"
+msgstr ""
+
+#: patterns/footer.php:69
+msgid "Modern Irrigation Systems"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Soil & Crop Consultation"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "Agri-Tech Integration"
+msgstr ""
+
+#: patterns/footer.php:84
+msgid "resources"
+msgstr ""
+
+#: patterns/footer.php:89
+msgid "Farming Guides"
+msgstr ""
+
+#: patterns/footer.php:93
+msgid "Case Studies"
+msgstr ""
+
+#: patterns/footer.php:97
+msgid "Research Papers"
+msgstr ""
+
+#: patterns/footer.php:101
+msgid "FAQs"
+msgstr ""
+
+#: patterns/footer.php:110
+msgid "Farm Cultivation WordPress Theme Proudly powered by "
+msgstr ""
+
+#: patterns/footer.php:110
+msgid "Ovation Themes"
+msgstr ""
+
+#: patterns/footer.php:110
+msgid " and "
+msgstr ""
+
+#: patterns/footer.php:110
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header-image.php
+msgctxt "Pattern title"
+msgid "Header Image"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:32
+msgid "(+55) 654 - 545 - 5418"
+msgstr ""
+
+#: patterns/header.php:45
+msgid "get in touch"
+msgstr ""
+
+#: patterns/index-header-image.php
+msgctxt "Pattern title"
+msgid "Index Header Image"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:11
+msgid "Growing Knowledge, "
+msgstr ""
+
+#: patterns/latest-news.php:11
+msgid "Growing"
+msgstr ""
+
+#: patterns/latest-news.php:11
+msgid " Farms"
+msgstr ""
+
+#: patterns/latest-news.php:15
+msgid "Explore expert tips, success stories, and the latest innovations in agriculture to help you"
+msgstr ""
+
+#: patterns/more-post.php
+msgctxt "Pattern title"
+msgid "More Post"
+msgstr ""
+
+#: patterns/more-post.php:11
+msgid "More Articles &amp; Posts"
+msgstr ""
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr ""
+
+#: patterns/search-product.php
+msgctxt "Pattern title"
+msgid "Search Product"
+msgstr ""
+
+#: patterns/search-product.php:42
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/services-section.php
+msgctxt "Pattern title"
+msgid "Services Section"
+msgstr ""
+
+#: patterns/services-section.php:10
+msgid "our services"
+msgstr ""
+
+#: patterns/services-section.php:14
+msgid "best agriculture"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/sidebar.php:38
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Archives"
+msgstr ""
+
+#: patterns/sidebar.php:58
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:68
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/single-product.php
+msgctxt "Pattern title"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/single-product.php:46
+msgid "Related Products"
+msgstr ""
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:11
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:15
+msgid "What our "
+msgstr ""
+
+#: patterns/testimonial.php:15
+msgid "Customers "
+msgstr ""
+
+#: patterns/testimonial.php:15
+msgid "Say"
+msgstr ""
+
+#: patterns/testimonial.php:26
+msgid "Ava Mitchell"
+msgstr ""
+
+#: patterns/testimonial.php:30
+msgid "AgroHarvest has transformed the way we farm. Their sustainable practices and modern increase yields without harming the soil"
+msgstr ""
+
+#: patterns/testimonial.php:44
+msgid "Rahul Desai"
+msgstr ""
+
+#: patterns/testimonial.php:48
+#: patterns/testimonial.php:102
+msgid "The quality of produce we receive is unmatched. Fresh, healthy, and delivered on time—AgroHarvest agriculture."
+msgstr ""
+
+#: patterns/testimonial.php:62
+msgid "Claire Benson"
+msgstr ""
+
+#: patterns/testimonial.php:66
+msgid "Thanks to AgroHarvest, we learned how to integrate eco-friendly methods into our fields. protecting the environment."
+msgstr ""
+
+#: patterns/testimonial.php:80
+msgid "Liam Chen"
+msgstr ""
+
+#: patterns/testimonial.php:84
+msgid "Their team is knowledgeable, supportive, and always ready to guide. AgroHarvest has built a bond of trust with farmers like us."
+msgstr ""
+
+#: patterns/testimonial.php:98
+msgid "Sophia James"
+msgstr ""
+
+#: styles/golden-sand.json
+msgctxt "Style variation name"
+msgid "Golden Sand"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Icon Background"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary Light"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Footer Background"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Headings"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: styles/golden-sand.json
+#: styles/lavender-violet.json
+#: styles/minty-green.json
+#: styles/ocean-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Sidebar Shadow Color"
+msgstr ""
+
+#: styles/lavender-violet.json
+msgctxt "Style variation name"
+msgid "Lavender Violet"
+msgstr ""
+
+#: styles/minty-green.json
+msgctxt "Style variation name"
+msgid "Minty Green"
+msgstr ""
+
+#: styles/ocean-blue.json
+msgctxt "Style variation name"
+msgid "Ocean Blue"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Lite"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "lato"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Livvic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body Text"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Big"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Banner Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Left Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Right Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Without Header Image"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Without Header Image"
+msgstr ""

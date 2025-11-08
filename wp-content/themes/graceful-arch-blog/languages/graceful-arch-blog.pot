@@ -1,0 +1,130 @@
+# Copyright (C) 2025 Optima Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: graceful arch blog\n"
+"Report-Msgid-Bugs-To: https://optimathemes.com/\n"
+"POT-Creation-Date: 2025-08-06 00:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: functions.php:37
+msgid "Top Navigaion"
+msgstr ""
+
+#: functions.php:44
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:58
+msgid "Enable Top Navigation"
+msgstr ""
+
+#: functions.php:68
+msgid "Arch Post Ticker"
+msgstr ""
+
+#: functions.php:82
+msgid "Enable Post Ticker"
+msgstr ""
+
+#: functions.php:97
+msgid "Show Post Ticker Arrow"
+msgstr ""
+
+#: functions.php:108
+msgid "Arch Featured Boxes"
+msgstr ""
+
+#: functions.php:122
+msgid "Enable Featured Boxes"
+msgstr ""
+
+#: functions.php:137
+msgid "Title 1"
+msgstr ""
+
+#: functions.php:151
+msgid "URL 1"
+msgstr ""
+
+#: functions.php:165
+msgid "Image 1"
+msgstr ""
+
+#: functions.php:184
+msgid "Title 2"
+msgstr ""
+
+#: functions.php:198
+msgid "URL 2"
+msgstr ""
+
+#: functions.php:212
+msgid "Image 2"
+msgstr ""
+
+#: functions.php:231
+msgid "Title 3"
+msgstr ""
+
+#: functions.php:245
+msgid "URL 3"
+msgstr ""
+
+#: functions.php:259
+msgid "Image 3"
+msgstr ""
+
+#: functions.php:271
+msgid "Full"
+msgstr ""
+
+#: functions.php:272
+msgid "Boxed"
+msgstr ""
+
+#: functions.php:283
+msgid "Featured Boxes Width"
+msgstr ""
+
+#: functions.php:314
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:324
+msgid "Set-up Top Menu"
+msgstr ""
+
+#: header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/columns/column-one.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/columns/column-one.php:67
+msgid " - By"
+msgstr ""
+
+#: template-parts/columns/column-one.php:92
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/columns/column-one.php:109
+msgid "Nothing Found!"
+msgstr ""
+
+#: template-parts/columns/column-one.php:110
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
