@@ -15,3 +15,4 @@
 
 ### DOCUMENTATION:
 Below are the photos of the mock up homepage
+![Homepage Preview](Homepage.png)
