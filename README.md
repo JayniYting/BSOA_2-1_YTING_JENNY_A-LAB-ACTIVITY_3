@@ -14,7 +14,8 @@
 3. The challenge that I've faced while editing the website is customizing the theme. I'm not familiar of some setting in the theme since I use Plover settings but I quickly learned it and eventually got used to it.
 
 ### DOCUMENTATION:
-Below are the photos of the mock up homepage
+Below are the photos of the mock up homepage:
+
 Homepage Preview
 <img width="1067" height="254" alt="Header" src="https://github.com/user-attachments/assets/e5dbee19-1793-48c8-90d5-0c214e699d59" />
 
